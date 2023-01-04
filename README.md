@@ -11,7 +11,7 @@
 
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=shankarbhandari01&countColor=%23263759)
 
 As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
