@@ -2,7 +2,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=shankarbhandari01&countColor=%23263759)
 
-I'm a passionate software engineer with a strong foundation in **Android development using Java and Kotlin**. I’ve also grown into full-stack engineering, building scalable backend systems with **Node.js**, **MongoDB**, and modern tooling like **Awilix**, **Agenda.js**, and more.
+I'm a passionate software engineer with a strong foundation in **Android development using Java and Kotlin**. I’ve also grown into full-stack engineering, building scalable backend systems with **Node.js**, **MongoDB**, and modern tooling like **Awilix**, **Agenda.js**, and more. Lately, I’ve been diving deep into **Data Science**, **Machine Learning**, and **Data Analysis** using Python and Jupyter Notebooks.
 
 ---
 
@@ -21,8 +21,19 @@ I'm a passionate software engineer with a strong foundation in **Android develop
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=%2361DAFB)
 ![Awilix](https://img.shields.io/badge/Awilix-DI%20Container-007ec6)
 ![Agenda.js](https://img.shields.io/badge/Agenda.js-Background%20Jobs-4b32c3)
+
+### 📊 Machine Learning & Data Analysis
 ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2c2c2c?logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+### 📒 Notebooks & IDEs
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 
 ### 🗄️ Databases & Cloud Hosting
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
@@ -34,25 +45,41 @@ I'm a passionate software engineer with a strong foundation in **Android develop
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obs-studio&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Shankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShankarBhandari01&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ShankarBhandari01&theme=radical)
 
 ---
 
+## 📌 Featured Projects
+
+Here are a few highlights of what I’ve worked on:
+
+- 🔐 **Role & Menu Rights API**: Scalable access control in Node.js & MongoDB  
+- 🧾 **Restaurant Order Classifier**: Machine Learning model to predict delivery success  
+- 📊 **Data Analysis Notebooks**: Exploratory analysis using pandas, seaborn, matplotlib
+
+Check out more 👉 [My GitHub Repos](https://github.com/ShankarBhandari01?tab=repositories)
+
+---
+<!-- 
+## 🌐 Portfolio
+
+Visit my portfolio here: **[shankarbhandari.dev](https://shankarbhandari.dev)**  
+_(Replace with your actual portfolio URL if different)_
+
+--- !-->
+
 ## 📫 Let's Connect
 
-- 📧 Email: [shankar@ravintola14peaks.fi](mailto:iamshankarbhandari@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/shankarbhandari2057](https://www.linkedin.com/in/shankarbhandari2057)
+- 📧 Email: [iamshankarbhandari@gmail.com](mailto:iamshankarbhandari@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/shankarbhandari2057](https://www.linkedin.com/in/shankarbhandari2057)  
 - 🖥️ Stack Overflow: [stackoverflow.com/users/20598818/shankar-bhandari](https://stackoverflow.com/users/20598818/shankar-bhandari)
 
 ---
 
-Feel free to explore my repositories to see what I’ve been building. I'm always open to collaboration, feedback, or just a chat. Let’s connect and build something great together! 🚀
+Thanks for stopping by! I'm always open to learning, collaborating, and building something meaningful 🚀
