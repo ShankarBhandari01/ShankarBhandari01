@@ -39,7 +39,6 @@ I'm a passionate software engineer with a strong foundation in **Android develop
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white)
 
 ### 🛠️ Tools & Platforms
@@ -51,7 +50,7 @@ I'm a passionate software engineer with a strong foundation in **Android develop
 ## 📈 GitHub Stats
 
 ![Shankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShankarBhandari01&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=ShankarBhandari01&theme=radical)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=ShankarBhandari01&theme=radical) !-->
 
 ---
 
