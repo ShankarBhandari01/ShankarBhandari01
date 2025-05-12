@@ -48,6 +48,8 @@ I'm a passionate software engineer with a strong foundation in **Android develop
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-000000?logo=ubuntu&logoColor=white)
+
 
 
 ---
